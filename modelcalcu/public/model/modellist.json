@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "iconaddress": "./model/test/logo.png",
+            "id": "01",
+            "name": "蓄电池充放电场景",
+            "description": "蓄电池场景",
+            "update": "2024/07/10",
+            "version": "CP001V1.0",
+            "creator": "李好"
+        },
+        {
+            "iconaddress": "./model/test/logo.png",
+            "id": "02",
+            "name": "电力测试场景",
+            "description": "电力测试",
+            "update": "2024/07/11",
+            "version": "CP001V1.0",
+            "creator": "李好"
+        },
+        {
+            "iconaddress": "./model/test/logo.png",
+            "id": "03",
+            "name": "乌兰告警标记",
+            "description": "乌兰场景",
+            "update": "2024/07/12",
+            "version": "CP001V1.0",
+            "creator": "李好"
+        },
+        {
+            "iconaddress": "./model/test/logo.png",
+            "id": "04",
+            "name": "温度序列统计",
+            "description": "温度统计场景",
+            "update": "2024/07/12",
+            "version": "CP001V1.0",
+            "creator": "李好"
+        },
+        {
+            "iconaddress": "./model/test/logo.png",
+            "id": "05",
+            "name": "场景五-测试场景",
+            "description": "其他场景",
+            "update": "2024/09/28",
+            "version": "CP001V1.0",
+            "creator": "陈含"
+        },
+        {
+            "iconaddress": "./model/test/logo.png",
+            "id": "06",
+            "name": "场景六-新增场景",
+            "description": "场景6",
+            "update": "2024/09/29",
+            "version": "CP001V1.0",
+            "creator": "陈含"
+        }
+    ]
+}
